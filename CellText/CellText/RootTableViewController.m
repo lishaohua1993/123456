@@ -26,6 +26,7 @@
         TextModel *model = [[TextModel alloc]init];
         model.isShow = NO;
         [self.dataArray addObject:model];
+        NSLog(@"");
     }
     
     
